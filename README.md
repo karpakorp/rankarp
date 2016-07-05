@@ -1,2 +1,2 @@
 # rankarp
-Happy Coding, karpas ! =)
+Happy coding, Karpas ! =)
